@@ -1,14 +1,3 @@
-/* -----------------------------------------------------------------------
-
-        This c file do slice samplig for ASV mdoels
-
-     the slice sampler within Gibbs and acceptance-rejection method
-       with normal nosies
-
-                            January, 2009
-Aug 5, 2009
---------------------------------------------------------------------------*/
-
 
 #include <stdio.h>
 #include <stdlib.h>
